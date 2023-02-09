@@ -13,8 +13,15 @@ The `research_data` directory contains the raw question file collected from the 
 
 The Jupyter notebooks at the root of the project directory contain the computational experiments used to evaluate the two algorithms detailed in the paper.
 
+- `Train-Test Split Mar 23.ipynb` creates the training, validation, and test sets for the study.
+- `Classification Endpoint File Creation March 23.ipynb` generates sample augmented datasets for the Classification Endpoint evaluation, as well as plotting and calculating time taken.
+- `Classification Endpoint Sampling.ipynb` evaluates the performance of the augmented Classification Endpoint using grid-search cross-validation.
+- `Completion Test March 23.ipynb` evaluates the performance of the Completion Endpoint.
+
 ## Model Outputs
 
 The data and model outputs from the Jupyter notebooks are stored in the `saved_models` directory. Figures for the paper are output in the root of the directory.
+
+*Note: Classification Endpoint time was measured directly from the OpenAI API webpage and saved in `saved_models`*
 
 
