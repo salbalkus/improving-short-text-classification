@@ -1,0 +1,21 @@
+	question	label
+0	Is the school open today?	Other
+1	When is the meeting time this semester?	Other
+2	What is the quantum Fourier transform	Data
+3	I tried to push to GitHub but I got a merge conflict error. How do I fix this problem?	Data
+4	Are you coming to Big Data Club tomorrow?	Other
+5	Will members get those stickers for free?	Other
+6	What data science books would recommend for understanding the basic principles?	Data
+7	Where can I access datasets like MNIST for image analysis?	Data
+8	Can someone help me understand how to SSH into the computing cluster on Friday?	Data
+9	Where can I find the link?	Other
+10	Which language should I use for matrix methods for data analysis	Data
+11	Does anyone have any classes they would recommend for me to take next semester	Other
+12	What is a Poisson distribution?	Data
+13	Here's my idea: we combine lookup table and machine learning model. Thoughts?	Data
+14	I've taken the class before, I really enjoyed it actually. Do you want me to send you the syllabus?	Other
+15	Could everyone send times when you are available before the start of the semester?	Other
+16	Here's a link on how to make custom Jupyter notebook themes. Big Data Club-themed notebooks, anyone?	Data
+17	What's the best way to get user input in Python?	Data
+18	Can you volunteer at the accepted students day @[redacted]	Other
+19	Which logo won the design contest?	Other

@@ -1,0 +1,126 @@
+{"text":"Can you tell me about your experience in [xxx]?","label":"Data"}
+{"text":"Who thinks about money more?","label":"Other"}
+{"text":"How do you control a robot?","label":"Data"}
+{"text":"How could a neural network help us to design a more efficient office?","label":"Data"}
+{"text":"You're not sure what happened?","label":"Other"}
+{"text":"How much does your drug cost?","label":"Other"}
+{"text":"Is there a way to generate questions based on the qumlaints (bugs) we find in","label":"Data"}
+{"text":"what's the secret to a long lasting relationship?","label":"Other"}
+{"text":"Do high school students get free lunch?","label":"Other"}
+{"text":"Do you know any free traffic generating methods?","label":"Data"}
+{"text":"Do you think that individualism is a part of Western culture?","label":"Other"}
+{"text":"What does the sizeof operator do?","label":"Data"}
+{"text":"What are some of the worst things that you have ever seen on television?","label":"Other"}
+{"text":"Okay, so I haven't played in a while, but I know the rules. Is there a way to see what maps are ...","label":"Other"}
+{"text":"@benpfeffer I would just like to know if you're gonna be selling any TFCC stuff at SDCC. If so, do you have any Exclusives coming?","label":"Other"}
+{"text":"Explain the Recurrent Neural Network with an example.","label":"Data"}
+{"text":"How to trace ip's history on the internet?","label":"Data"}
+{"text":"Where did you go?","label":"Other"}
+{"text":"Describe your favorite pet.","label":"Other"}
+{"text":"What is the number of people playing soccer in America?","label":"Other"}
+{"text":"What are the most common use cases for the ONNX format?","label":"Data"}
+{"text":"What are some essential functions of a data scientist?","label":"Data"}
+{"text":"What is the difference between a rough set approach and a fuzzy set approach?","label":"Data"}
+{"text":"What is the difference between a centralized and decentralized database?","label":"Data"}
+{"text":"What is your spirit animal?","label":"Other"}
+{"text":"What is the difference between a psychopath and a narcissist?","label":"Other"}
+{"text":"What do you do to escape from your personal problems?","label":"Other"}
+{"text":"Who is your favorite member of the audience?","label":"Other"}
+{"text":"What kind of cake is your favorite?","label":"Data"}
+{"text":"It's my wedding day, I need to get dressed up, what do you suggest?","label":"Other"}
+{"text":"Can a user be on dialysis and then be put on peritoneal?","label":"Data"}
+{"text":"I'm just starting my data science project, any tips?","label":"Data"}
+{"text":"Where is Scooby-Doo's nose?","label":"Other"}
+{"text":"Why was the man so angry about it?","label":"Other"}
+{"text":"What do you think is the coolest invention of the 20th century?","label":"Other"}
+{"text":"What are the different logical query processing phases?","label":"Data"}
+{"text":"What is \"bootstrap\"?","label":"Data"}
+{"text":"What is the simple moving average formula and how is it calculated?","label":"Data"}
+{"text":"What are you doing?","label":"Data"}
+{"text":"How can you implement a stack data structure using JavaScript?","label":"Data"}
+{"text":"Now you're the therapist who is getting called the crazy person!","label":"Other"}
+{"text":"How can I check if a path exists in FileSystem in Java?","label":"Data"}
+{"text":"@matthew_bailey - Does the Dowager Countess think that Cora should try homeopathy? ( )","label":"Other"}
+{"text":"What is the point of the letters \"K\" and \"W\" in \"RKO\"?","label":"Other"}
+{"text":"Design a data structure to represent the following:","label":"Data"}
+{"text":"How are you preventing data breach?","label":"Data"}
+{"text":"What is the difference between recurrent and feed forward neural network?","label":"Data"}
+{"text":"What is the different between an in-memory database and a persistence framework?","label":"Data"}
+{"text":"Can I have a tutorial on using the TensorFlow?","label":"Data"}
+{"text":"@The_SciBorg @dave-alexander I'd be surprised if 50% of your students graduate.","label":"Other"}
+{"text":"What do you think of the new music from @VampireWeekend?","label":"Other"}
+{"text":"How can you spot a mason who is about to hit his woman?","label":"Other"}
+{"text":"What type of problems are typically solved using machine learning?","label":"Data"}
+{"text":"What are the main differences between the KNN, NN, and SVM algorithms in scikit-learn?","label":"Data"}
+{"text":"Why is there so much crime in the streets?","label":"Other"}
+{"text":"What is one thing that would make you a better player?","label":"Other"}
+{"text":"are you an expert in data science?","label":"Data"}
+{"text":"#4 question for @CapcomFighters @sako_san : Please ask Sako san to do a pose!","label":"Other"}
+{"text":"How to convert a string to an integer (in python)?","label":"Data"}
+{"text":"What is the data type of an array?","label":"Data"}
+{"text":"What are some of the differences between R and Python?","label":"Data"}
+{"text":"Tell us about your experience in using Big Data technologies?","label":"Data"}
+{"text":"Why do you not need a license to drive a snowplow?","label":"Other"}
+{"text":"Why should we use transactions in SQL?","label":"Data"}
+{"text":"What is the best way to clean a keyboard?","label":"Other"}
+{"text":"What are your thoughts on the proposed ban on anonymous users editing articles on Wikipedia?","label":"Data"}
+{"text":"What is the difference between an array and a list?","label":"Data"}
+{"text":"Why do they always say that you can tell the difference between cowboys and cowgirls?","label":"Other"}
+{"text":"@[redacted] How come you are so good at Jeopardy?","label":"Other"}
+{"text":"How do you use multiple CPU cores in parallel when performing Quicksort?","label":"Data"}
+{"text":"What does the name of your character mean and how would you describe him\/her?","label":"Other"}
+{"text":"What is the difference between data mining and data analytics?","label":"Data"}
+{"text":"Can you talk about a time where you worked with an analytics team?","label":"Data"}
+{"text":"Why is six afraid of seven?","label":"Other"}
+{"text":"What is the probability that an adult will be admitted to a hospital in the US? The dataset can be found here: http:\/\/archive.ics.uci.edu\/ml\/datasets\/Admission+to+Hospital+Dataset The adult dataset contains a total of 64,846 adult admissions","label":"Data"}
+{"text":"What is the difference between Logistic Regression with One-vs-All approach and Logistic Regression with One-vs-One approach?","label":"Data"}
+{"text":"What is the best open source deep learning framework for a newbie?","label":"Data"}
+{"text":"What was her name?","label":"Other"}
+{"text":"What is something you would never do, regardless of how much money was on the line?","label":"Other"}
+{"text":"Okay, let's try another question\u2026","label":"Other"}
+{"text":"What are the different types of test case?","label":"Data"}
+{"text":"What is the difference between incremental learning and mini batch learning?","label":"Data"}
+{"text":"What did the sign on the door of the madhouse say?","label":"Other"}
+{"text":"I'm really interested in getting a job as a speculator, any tips?","label":"Other"}
+{"text":"My government has been taken over by a military junta, what should I do?","label":"Other"}
+{"text":"How to track the time taken by the function?","label":"Data"}
+{"text":"Could\u00a0you give an example of a linear regression from a machine learning perspective?","label":"Data"}
+{"text":"The lids must be of stainless steel, otherwise the powder will be scratched.","label":"Other"}
+{"text":"How can I evaluate the effectiveness of my machine learning algorithm?","label":"Data"}
+{"text":"What is the difference between a generator and an iterator?","label":"Data"}
+{"text":"Score two tests in order of increasing power. Show the calculations.","label":"Data"}
+{"text":"What is the difference between a normal distribution and a log-normal distribution?","label":"Data"}
+{"text":"How do you do online training in rt-ai?","label":"Data"}
+{"text":"What is the use of lambda functions?","label":"Data"}
+{"text":"What are the main techniques for getting a job?","label":"Data"}
+{"text":"What do you get if you cross a hedgehog with a porcupine?","label":"Other"}
+{"text":"Is it the same which type of protein drink you take?","label":"Other"}
+{"text":"What is this function `json.loads(str)` used for?","label":"Data"}
+{"text":"What is your opinion about the new law?","label":"Other"}
+{"text":"Do you know any good language learning resources?","label":"Data"}
+{"text":"Should I use Plotly or matplotlib for visualization?","label":"Data"}
+{"text":"would this be better if we had dedicated reactions for good\/bad questions\/answers?","label":"Other"}
+{"text":"@[redacted]Do you have any of the merch with the new logo done? If so can we see a link \/ picture?","label":"Other"}
+{"text":"What are some libraries for data visualization in python?","label":"Data"}
+{"text":"Has anyone seen the original Transformers movie?","label":"Other"}
+{"text":"Neural networks can be programmed in both Tensorflow and PyTorch, true or false?","label":"Data"}
+{"text":"What statistical distribution models intervals?","label":"Data"}
+{"text":"How many neurons are contained within the human nervous system?","label":"Other"}
+{"text":"why is it that a snowflake falls in the winter instead of the summer?","label":"Other"}
+{"text":"What does a data science career path look like?","label":"Data"}
+{"text":"When he attached the wires, they made a spark. Does he need more training?","label":"Other"}
+{"text":"Could you explain the difference between Spark and Hadoop?","label":"Data"}
+{"text":"Does anyone know if non-library buildings are open on campus?","label":"Other"}
+{"text":"Is it possible to set up an API in AWS?","label":"Data"}
+{"text":"Has anyone ever trained a transformer model for NLP?","label":"Data"}
+{"text":"What is a simulation and how does it differ from machine learning modeling?","label":"Data"}
+{"text":"Django or Flask?","label":"Data"}
+{"text":"What's the difference between data science and data analytics?","label":"Data"}
+{"text":"What are some people's favorite movies?","label":"Other"}
+{"text":"The wise old oak tree helped you make a decision?","label":"Other"}
+{"text":"What is the best way to learn Tableau and PowerBI?","label":"Data"}
+{"text":"Which programming language is preferable for embedded systems, C or C++?","label":"Other"}
+{"text":"should I just thumbs up every single message or what","label":"Other"}
+{"text":"what is data science?","label":"Data"}
+{"text":"and if we're not, why not?","label":"Other"}
+{"text":"Where was the largest cluster of cases found this month?","label":"Other"}

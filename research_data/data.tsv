@@ -1,0 +1,85 @@
+Message	Neg_Rating	Pos_Rating	Question	Time
+What is the best programming language for data science?	1	1	True	45:13.9
+The one you know	0	3	False	52:14.2
+^excellent answer!	0	0	False	55:46.7
+What is the meaning of life?	2	1	True	10:19.7
+"I did a thumbs down to indicate the question is unrelated, but now that I think of it, ""What is the meaning of life?"" might be solvable using data science... lmao"	0	0	False	13:43.3
+sounds like its related then	0	0	False	14:35.7
+What are some people's favorite movies?	1	0	True	22:48.0
+would this be better if we had dedicated reactions for good/bad questions/answers?	1	0	True	41:39.2
+my instinct is to react with thumbs-up if I like the question/answer rather than whether it's on-topic or not	0	0	False	42:58.8
+actually my instinct is to never react ever because I forget about that all the time	0	0	False	43:18.2
+Groundhog Day	0	1	False	43:47.4
+What are some libraries for data visualization in python?	0	2	True	56:25.5
+The go-to library is matplotlib.pyplot, but some prettier visualizations come from seaborn. Others include folium, altair, plotly, and ggplot. Would recommend trying out multiple packages per problem you run into / visualization unless you're in a rush	0	1	False	01:08.2
+Thanks!	0	1	False	03:15.5
+Personally, my favorite Python visualization library is seaborn. Very simple to use for exploratory data analysis	0	1	False	08:49.9
+Also Dash is a library for creating interactive dashboards and visualizations in Python	0	1	False	16:33.4
+Great question	0	0	False	16:36.7
+What's the difference between data science and data analytics?	0	2	True	36:43.2
+What does a data science career path look like?	0	2	True	36:47.2
+Is it better to do a data science bootcamp or get a master's degree in data science?	0	2	True	37:30.2
+To me, data analytics is a subfield of data science focused on extracting insights. When I hear about analytics, it is typically used in a “business” or “reporting” context. Data science is more broad, as it encompasses analytics as well as data engineering, machine learning, and other fields.	0	1	False	01:40.4
+For a career, in my opinion there are two paths. The first path is the employment path, which is split into two potential routes. Many of the data science people I know generally get an entry level job as a data or business analyst, analyzing data using Python/R or a software like tableau or excel. Then they transition into more advanced roles like management. However, people who are more engineering or computer science inclined might get hired as software developers, or DBAs (database administrators) or even data engineers (similar to DBA). Then, with data infrastructure expertise you become qualified to build machine learning models as an ML engineer. The other path is the PhD route - doing a PhD in a science or engineering discipline makes you qualified to work as a researcher in industry - this is the most stereotypical “data scientist” role which constructs experiments to uncover knowledge for the company	0	1	False	08:46.2
+But it is worth noting that entry level data analysts could use basic stats to run an AB test, which is when a company experiments on their consumers by serving them different products	0	1	False	09:58.5
+Both boot camps and master’s degrees are often for people transition from some other role into data science, but masters degree can help you get a higher paying job and move into more advanced roles since companies like to see masters degrees. As long as the master’s degree is not from a major “cash cow” program where you’re paying 100k for a degree, if you have a bachelor’s degree and you want one of the two  I would go for the masters	0	1	False	13:21.5
+But then again, a bachelors in data science with strong internships or research experience would be just as good in my opinion for landing a job	0	1	False	13:54.7
+Excellent questions	0	0	False	14:05.0
+should I just thumbs up every single message or what	1	0	True	14:52.8
+@[redacted] you should thumbs up every question related to data science and every answer that adequately answers a question	0	1	False	39:45.0
+I meant in your response since it's multiple messages	0	0	False	09:05.9
+Yes you can thumbs up every message	0	0	False	04:08.7
+I'm looking at adding data science as a second major but I'm really confused by the [redacted] course. Has anyone taken it or is taking it and could tell me what it is? I couldn't find it anywhere on coin.	0	2	True	47:30.6
+[redacted]	0	1	False	52:21.3
+[redacted]	0	1	False	59:34.8
+[redacted]	0	1	False	08:36.6
+Thanks for all the help	0	0	False	24:18.7
+What is a simulation and how does it differ from machine learning modeling?	0	1	True	34:45.2
+A simulation is essentially a computer program that, using a model, allows us to study the behavior of some phenomenon virtually rather than in the real world	0	1	False	43:14.3
+A machine learning model is a model that is trained from a set of real world data. In machine learning, an algorithm is provided a set of data and asked to perform a task, often involving predicting some outcome	0	1	False	44:03.0
+Machine learning models mimic the real world and can be used to predict something, even in a simulation	0	1	False	44:27.3
+TLDR: Simulations use models to generate data, machine learning uses data to create a model	0	1	False	45:11.1
+Django or Flask?	0	1	True	46:23.1
+Or Streamlit?	0	1	True	11:51.6
+I generally prefer Flask for data science projects - it’s good for applications with just a single page or a few pages. If you’re building a big website with many pages though, Django would be better.	0	0	False	26:36.6
+I have never looked into Streamlit to be honest	0	0	False	26:54.3
+Actually, now that I read about it, Streamlit looks fantastic for data science applications like dashboarding	0	0	False	27:52.7
+Though Flask is still probably better for a general use case I am guessing	0	0	False	28:21.8
+I made a small web app with streamlit before it was nice you can turn your python code into a web app with a few lines of code, I think Django might have the most features and is the most complete of the three but I’ve only tried streamlit so far	0	1	False	11:04.5
+What do you guys think would be some difficult data science questions to answer?	0	1	True	56:25.6
+Or what would be some questions that people outside the club would be wondering about?	0	1	True	56:42.2
+what is data science?	0	1	True	44:18.9
+Does anyone know if non-library buildings are open on campus?	1	0	True	55:18.1
+No idea, I don't think there are any workers there	0	0	False	55:54.6
+Because there non essential	0	0	False	56:00.7
+I know that the library is closed	0	0	False	58:35.9
+Just was wondering if we could get into the buildings? lol	0	0	True	58:58.8
+Maybe	0	0	False	59:14.7
+I know they keep [redacted] open	0	0	False	59:32.7
+All the time	0	0	False	59:35.4
+👍	0	0	False	59:42.1
+[redacted] is also open	0	0	False	02:09.7
+Hey guys	0	0	False	58:27.5
+Where do data scientists go camping?	1	0	False	58:35.2
+python boot camp	0	0	False	58:54.6
+I was gonna say “in random forests” but that’s true too 😆	0	0	False	59:17.8
+random forests is better tbh	0	0	False	00:07.0
+Are people familiar with APIs? Just wondering if I should plan an explanation for how APIs work for Thursday.	0	2	True	20:15.3
+Please do, don't even know what it stands for.	0	2	False	32:47.1
+I was wondering when we are going to start doing working on a project in Big Data Club, I know that we were supposed to start one soon and I want to make sure I'm there for it. I have a lot going on school wise and want to make sure I'm there for there for when we learn how to incorporate databases to make something.	0	0	True	35:35.5
+Well you’re in luck because are starting a project today! We’ll be using API for this project though, which I’ll discuss during the meeting. I plan on putting our code on GitHub so you can review what we do during the meeting as well	0	0	False	56:27.7
+@[redacted]	0	0	False	56:31.7
+Can anyone help with BCNF for [redacted] I do not understand any of this at all.  The lecture/slides are awful and I've been watching youtube videos getting even more lost. Thanks friends	0	1	True	42:39.4
+Text me tomorrow, I took this class	0	1	False	51:59.1
+thank you	0	0	False	55:33.1
+⛄	0	0	False	14:11.0
+why is it that a snowflake falls in the winter instead of the summer?	2	0	True	33:47.8
+Does P = NP?	0	1	True	37:16.2
+Like a bantha!	1	0	False	37:31.6
+What are we going to do for the rest of the meeting?	1	0	True	37:52.3
+What statistical distribution models intervals?	0	1	True	03:15.3
+This guy knows the way	0	0	False	20:15.8
+@[redacted] Do you have any of the merch with the new logo done? If so can we see a link / picture?	1	0	True	40:03.1
+are we using my redesign?	1	0	True	01:47.4
+and if we're not, why not?	1	0	True	01:52.0
+That will require a revote lol	0	0	False	04:46.3
